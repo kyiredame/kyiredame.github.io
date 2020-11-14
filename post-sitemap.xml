@@ -7,8 +7,16 @@
     </url>
 
     <url>
-        <loc>http://www.huweihuang.com/article/hexo-theme-huweihuang/</loc>
-        <lastmod>2020-10-23T15:18:38.842Z</lastmod>
+        <loc>http://www.huweihuang.com/article/first%20post/</loc>
+        <lastmod>2020-11-03T12:58:15.360Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.huweihuang.com/article/My%20first%20post/</loc>
+        <lastmod>2020-10-23T16:52:17.835Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
