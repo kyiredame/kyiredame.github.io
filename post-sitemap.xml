@@ -7,16 +7,24 @@
     </url>
 
     <url>
-        <loc>http://www.huweihuang.com/article/notes/</loc>
-        <lastmod>2020-11-14T12:13:08.047Z</lastmod>
+        <loc>http://www.huweihuang.com/article/lecture/</loc>
+        <lastmod>2020-11-15T06:08:10.362Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://www.huweihuang.com/article/lecture/</loc>
-        <lastmod>2020-11-14T11:36:31.607Z</lastmod>
+        <loc>http://www.huweihuang.com/article/notes/</loc>
+        <lastmod>2020-11-15T05:57:04.202Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.huweihuang.com/article/HCI/</loc>
+        <lastmod>2020-11-14T12:51:43.127Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
