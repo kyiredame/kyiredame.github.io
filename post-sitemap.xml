@@ -7,8 +7,16 @@
     </url>
 
     <url>
-        <loc>http://www.huweihuang.com/article/post/</loc>
-        <lastmod>2020-12-09T14:07:02.690Z</lastmod>
+        <loc>http://www.huweihuang.com/article/Python/</loc>
+        <lastmod>2020-12-29T12:02:22.268Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.huweihuang.com/article/markdown/</loc>
+        <lastmod>2020-12-29T09:03:47.398Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
